@@ -1,2 +1,2 @@
 # Udacity Data Analyst Nanodegree
-Learn from research, I gradually gain interest in data science and I am trying to find a job as data scientist. To start with, I joined Udacity's online programs including Data Analyst Nanodegree program. The files in this resipotory are projects that I completed. These are also record of my study progress.
+My research experience in stochastic modeling gradually brings me new interest in data science, and I am trying to find a job as data scientist now. I prefer to learn data science in a more systematic and job-oriented way, so I joined Udacity's Data Analyst Nanodegree program. The files in this resipotory are projects that I completed. These are also records which represent my study progress.
