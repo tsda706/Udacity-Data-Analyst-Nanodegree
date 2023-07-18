@@ -1,3 +1,3 @@
-#Project 1 - Explore Weather Trends
+Project 1 - Exploring Weather Trends: Local vs. Global Temperature
 
-In this project, I analyzed and compared the local (the city where I lived) and global temperature data. Based on the provided data from Udacity, I extract data from the provided large data base, visualized and summarized the temperature trends.
+Step into the fascinating world of climate data with my project, "Exploring Weather Trends." Leveraging data provided by Udacity, I delve into a captivating analysis of temperature trends, comparing the climate of Durham (the city where I lived) with global patterns. Through meticulous data extraction, visualization, and insightful summaries, I uncover the similarities and distinctions between local and global temperature fluctuations. Join me on this data-driven journey as we gain valuable insights into the ever-changing climate and its potential implications for our environment. Witness the power of data science in unraveling climate stories!
