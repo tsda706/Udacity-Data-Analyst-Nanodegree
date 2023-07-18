@@ -1,0 +1,3 @@
+# Project 3 - A/B Testing for Enhanced Decision Making
+
+Delve into the realm of data-driven decision-making with my project, "A/B Testing for Enhanced Decision Making." In this engaging endeavor, I analyze the results of an A/B test conducted by an e-commerce website to optimize their webpage experience. By rigorously assessing the performance of the new webpage against the old, I aid the company in making informed choices—whether to implement the new design, retain the existing one, or potentially extend the experiment for further insights. Unravel the power of data science as we unlock the keys to enhancing user engagement and driving business success.
